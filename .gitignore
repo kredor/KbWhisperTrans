@@ -1,0 +1,9 @@
+runtime/
+models/
+jobs/
+__pycache__/
+*.pyc
+*.log
+*.lnk
+.downloads/
+*.download
